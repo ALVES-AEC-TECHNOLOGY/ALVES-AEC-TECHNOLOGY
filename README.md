@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there, I'm David Alves 👋
 
-<!--
-**ALVES-AEC-TECHNOLOGY/ALVES-AEC-TECHNOLOGY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Arch. | BIM Engineer & AEC Data Analyst | Tech & Automation Specialist
 
-Here are some ideas to get you started:
+Driven by the intersection of Architecture, Engineering, and Computer Science, I specialize in developing Python/C# automation tools and local AI pipelines to solve complex problems in **High-Complexity Transport Infrastructure Projects**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 My Journey & Impact
+
+My career has been defined by contributing to some of the most iconic BIM-driven projects in São Paulo:
+
+* **Corporate AAA Projects (2017):** Began my journey as a BIM Intern working on the **B32 Building at Faria Lima**, a landmark in high-end corporate architecture and early advanced BIM implementation.
+* **Mass Transit Infrastructure (Present):** Currently working with multiple subway and rail lines across Brazil through **Tetra Projetos**, acting as a BIM Designer and transitioning into a **BIM Engineer**.
+
+🔹 **The Turning Point (São Paulo's Metro Line 6):**
+While developing architectural detailed designs and optimizing complex door schedules for Latin America's largest BIM infrastructure project, I created custom Python scripts to automate repetitive tasks. This success redefined my role: I now leverage **local LLMs as an AI Copilot** to build advanced automation tools, streamline engineering workflows, and accelerate project delivery.
+
+---
+
+### 🛠️ Tech Stack & Expertise
+
+- **AEC & BIM:** Revit, Archicad (focused in Data Extraction)
+- **Programming Languages:** Python, C# (.NET)
+- **Data & AI:** SQL, Pandas, NumPy, Local LLMs via JSON-LD (AI Pipelines / Copilot Integration - BIM Analysis)
+- **APIs & Automation:** Revit API, Dynamo (pythonscript), Revit Headless and Archicad CLI
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://vercel.app" alt="David's GitHub Stats" height="150" />
+  <img src="https://vercel.app" alt="Top Langs" height="150" />
+</p>
+
+---
+
+### 📫 Connect with me
+
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/david-a-202788425/)
+[![Email](https://shields.io)](mailto:arq_dav.al@proton.me)
