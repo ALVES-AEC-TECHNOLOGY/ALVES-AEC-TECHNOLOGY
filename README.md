@@ -20,19 +20,12 @@ While developing architectural detailed designs and optimizing complex door sche
 
 ### 🛠️ Tech Stack & Expertise
 
-- **AEC & BIM:** Revit, Archicad (focused on Data Extraction)
-- **Programming Languages:** Python, C# (.NET)
-- **Data & AI:** SQL, Pandas, NumPy, Local LLMs via JSON-LD (AI Pipelines / Copilot Integration - BIM Analysis)
-- **APIs & Automation:** Revit API, Dynamo (Python Scripting), Headless Revit, and Archicad CLI
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://vercel.app" alt="David's GitHub Stats" height="150" />
-  <img src="https://vercel.app" alt="Top Langs" height="150" />
-</p>
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **AEC & BIM** | Revit, Archicad (focused on Data Extraction) |
+| **Programming** | Python, C# (.NET) |
+| **Data & AI** | SQL, Pandas, NumPy, Local LLMs via JSON-LD (AI Pipelines / Copilot Integration) |
+| **APIs & Automation** | Revit API, Dynamo (Python Scripting), Headless Revit, Archicad CLI |
 
 ---
 
