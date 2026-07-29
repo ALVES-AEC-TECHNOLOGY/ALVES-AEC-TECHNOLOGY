@@ -8,10 +8,11 @@ Driven by the intersection of Architecture, Engineering, and Computer Science, I
 
 ### 🚀 My Journey & Impact
 
-My career has been defined by contributing to some of the most iconic BIM-driven projects in São Paulo:
+My career is defined by merging entrepreneurial drive with technical contributions to some of the most iconic BIM-driven projects in Latin America:
 
-* **Corporate AAA Projects (2017):** Began my journey as a BIM Intern working on the **B32 Building at Faria Lima**, a landmark in high-end corporate architecture and early advanced BIM implementation.
-* **Mass Transit Infrastructure (Present):** Currently working with multiple subway and rail lines across Brazil through **Tetra Projetos**, acting as a BIM Designer and transitioning into a **BIM Developer**.
+* **AEC Tech Startup Founder:** Championed innovation by founding a startup focused on building scalable automation tools and data products to eliminate bottlenecks in the construction and design industries.
+* **Corporate AAA Projects (2017):** Contributed as a BIM Intern to the **B32 Building at Faria Lima**, a landmark in high-end corporate architecture and advanced BIM implementation.
+* **Mass Transit Infrastructure (Present):** Developing tech-driven workflows for multiple subway and rail lines across Brazil through **Tetra Projetos**, acting as a BIM Designer and transitioning into a **BIM Developer**.
 
 🔹 **The Turning Point (São Paulo's Metro Line 6):**
 While developing architectural detailed designs and optimizing complex door schedules for Latin America's largest BIM infrastructure project, I created custom Python scripts to automate repetitive tasks. This success redefined my role: I now leverage **local LLMs as an AI Copilot** to build advanced automation tools, streamline engineering workflows, and accelerate project delivery.
