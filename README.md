@@ -31,4 +31,4 @@ While developing architectural detailed designs and optimizing complex door sche
 
 ### 📫 Connect with me
 
-[**LinkedIn**](https://linkedin.com) | [**Email**](mailto:arq_dav.al@proton.me)
+[**LinkedIn**](https://www.linkedin.com/in/david-a-202788425/) | [**Email**](mailto:arq_dav.al@proton.me)
