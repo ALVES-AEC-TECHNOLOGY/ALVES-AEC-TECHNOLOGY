@@ -30,10 +30,7 @@ While developing architectural detailed designs and optimizing complex door sche
 ### 📊 GitHub Stats
 
 <p align="left">
-  <!-- APAGUE o "ALVES-AEC-TECHNOLOGY" abaixo e coloque o seu nome de usuário do GitHub -->
   <img src="https://vercel.app" alt="David's GitHub Stats" height="150" />
-  
-  <!-- APAGUE o "ALVES-AEC-TECHNOLOGY" abaixo também -->
   <img src="https://vercel.app" alt="Top Langs" height="150" />
 </p>
 
@@ -41,6 +38,4 @@ While developing architectural detailed designs and optimizing complex door sche
 
 ### 📫 Connect with me
 
-<!-- O seu link do LinkedIn e seu e-mail já estão configurados e preenchidos abaixo prontos para uso! -->
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/david-a-202788425/)
-[![Email](https://shields.io)](mailto:arq_dav.al@proton.me)
+[**LinkedIn**](https://linkedin.com) | [**Email**](mailto:arq_dav.al@proton.me)
