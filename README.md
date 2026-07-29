@@ -2,7 +2,7 @@
 
 ### B.Arch. | BIM Developer & AEC Data Analyst | Tech & Automation Specialist
 
-Driven by the intersection of Architecture, Engineering, and Computer Science, I specialize in developing Python/C# automation tools and local AI pipelines to solve complex problems in **High-Complexity Transport Infrastructure Projects**.
+Driven by the intersection of Architecture, Engineering, and Computer Science, I specialize in developing Python/C# automation tools and local AI pipelines to solve complex problems in **High-Complexity Projects**.
 
 ---
 
